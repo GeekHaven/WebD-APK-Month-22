@@ -2,12 +2,12 @@
 
 ## Make `username.json` file 📣 
 
-**Make `username.json` (where `username` is your GitHub username) and then fill the information as given below and please maintain the following format :
+**Make `username.json` (where `username` is your GitHub username) and then fill the information as given below and please maintain the following format** :
 
 ```
  {
-       "name" : "Jai-web",
-       "username" : "github-username",
+       "name" : "Your Name",
+       "username" : "your-github-username",
        "roll number" : "IIT2021xxx",
        "task 1":{
           "repo link" : "https://github.com/repo-name"
