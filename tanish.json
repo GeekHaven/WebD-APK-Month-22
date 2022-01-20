@@ -1,0 +1,76 @@
+<head>
+    <title>
+        Tanish_Khandelwal
+    </title>
+</head><body>
+    <h1>
+        Tanish
+    </h1>
+    <p1>
+        <b>
+            Email :
+        </b>
+        iit2021128
+        <b>
+            Phone :
+        </b>
+       123456789|
+        <b>
+            My Github URL:
+        </b>
+        <a href="https://github.com/KT0601"> https://github.com/KT0601</a>
+    </p1>
+    <hr>
+
+    <h2>
+        Education
+    </h2>
+    <p2>
+        <ul>
+            <li>
+                Undergraduate from IIIT A with majors in Information Teachnology .
+            </li>
+            
+        </ul>
+    </p2>
+    <hr>
+
+    <h2>
+        Skills
+    </h2>
+    <p3>
+        <table>
+            <tbody><tr>
+                <td><b>Language  </b></td>
+                <td style="text-align:center;"><b> Skill </b></td>
+            </tr>
+            <tr>
+                <td><b>HTML</b></td>
+                <td>★★★★☆</td>
+            </tr>
+            <tr>
+                <td><b>CSS</b></td>
+                <td>★★★☆☆</td>
+            </tr>
+            <tr>
+                <td><b>Javascript</b></td>
+                <td>★★☆☆☆</td>
+            </tr>
+        </tbody></table>
+    </p3>
+    <hr>
+
+    <h2>
+        Contact Me
+    </h2>
+    <form>
+        <label>Your Name : </label>
+        <input type="text" placeholder="Enter your name"><br><br>
+        <label>Your Email id : </label>
+        <input type="text" placeholder="Enter your email id"><br><br>
+        <label>Your message : </label>
+        <input type="text" style="width: 300px; height: 50px;" placeholder="Enter your message">
+    </form>
+
+
+</body>
