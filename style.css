@@ -1,0 +1,48 @@
+
+
+.rounded{
+    border-radius: 50%;
+    padding: 4px;
+    border: 8px red;
+    background: rgb(255, 192, 255); 
+}
+body {
+    font-family: cursive;
+    background-image: linear-gradient(
+      90deg,
+      #f13cf7 0%,
+      #6250c8 46%,
+      #ff70f8 100%
+      
+    );
+  }
+  .baseofwebsite {
+    width: 1200px;
+    height: 800px;
+    position:absolute;
+    left: 0;
+    right: 0;
+    top: 10;
+    bottom: 10;
+    margin: 7px auto 7px auto;
+    border-radius: 20px;
+    background: #f3ecf0;
+   
+  }
+ 
+
+.mouj1{
+    position:absolute;
+    left: 150px;
+    bottom: 100px;
+}
+.mouj2{
+    position:absolute;
+    left: 150px;
+    bottom:50px;
+}
+.mouj3{
+    position:absolute;
+    right: 100px;
+    bottom:80px;
+}
