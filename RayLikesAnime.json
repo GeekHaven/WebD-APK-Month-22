@@ -4,5 +4,11 @@
     "roll number" : "IIT2021173",
     "task 1":{
        "repo link" : "https://github.com/RayLikesAnime/WebDTask1"
+    },
+
+    "task 2":{
+        "repo link" : "https://github.com/RayLikesAnime/webdtask2final",
+        "live hosted website" : "https://raylikesanime.github.io/webdtask2final/webdtask2"
+
     }
 }
