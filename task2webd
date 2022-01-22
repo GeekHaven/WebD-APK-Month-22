@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shivangi task 2 webd</title>
+</head>
+<body class="background">
+    <center><h1>SHIVANGI CHANDRA</h1>
+    <img src="C:\Users\shiva\Documents\Data struct. and algo\shvi.jpg" alt="img">
+    <h6>Email:<a href="shivangichandra806@gmail.com">shivangichandra806@gmail.com </a> |My GitHub URL:<a href="https://github.com/shivangi806/WebD-.git">shivangi806</a></h6>
+        
+    </center><hr>
+    <center><h2>Education</h2><li>I did my schooling from St.Xavier's Public School.</li><li>I am currently a undergraduate and pursuing my education from IIIT Allahabad </li>
+    </center><hr><center><h2>Skills</h2></center>
+     <center><table border = "1">
+        <tr>
+           <td><h3>Language</h3></td>
+           <td><h3>Skill</h3></td>
+        </tr>
+        
+        <tr>
+           <td>HTML</td>
+           <td>⭐⭐⭐⭐⭐</td>
+        </tr><tr>
+            <td>CSS</td>
+            <td> ⭐⭐⭐ ✰ ✰</td>
+         </tr><tr>
+            <td>Javascript</td>
+            <td>⭐ ✰ ✰ ✰ ✰</td>
+         </tr>
+     </table></center><hr>
+     <center><h2>Contact Me</h2><tr>
+        <td>Your Name :<textarea name="Enter Your Name" id="" cols="10" rows="1"></textarea></td>
+        <td>Your Email :<textarea name="Enter Your Email" id="" cols="10" rows="1"></textarea></td> <td>Your Message : <textarea name="Enter your message" id="" cols="10" rows="3"></textarea></td>
+     </tr>
+        </center>
+     
+</html>
