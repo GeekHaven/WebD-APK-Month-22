@@ -4,5 +4,8 @@
     "roll number" : "IEC2021097" ,
     "task 1" :{
         "repo link" : "https://github.com/PARANJAIK/Web-D-task1.git"
+    },
+    "task 2":{
+        "repo link" : "https://github.com/PARANJAIK/webdtask2.git"
     }
 }
