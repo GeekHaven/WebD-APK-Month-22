@@ -3,12 +3,15 @@
     "username" : "pvtrpndy",
     "roll number" : "IEC2021066",
     "task 1":{
-       "repo link" : "https://github.com/pvtrpndy/apk-webd-task1"
+       "repo link" : "https://github.com/pvtrpndy/apk-webd-task1",
+       "live link" : "https://pvtrpndy.github.io/apk-webd-task1/pvtrpndy.html"
     },
     "task 2":{
-        "repo link" : "https://github.com/pvtrpndy/webd-task2"
+        "repo link" : "https://github.com/pvtrpndy/webd-task2",
+        "live link" : "https://pvtrpndy.github.io/webd-task2/"
     },
     "task 3":{
-        "repo link" : "https://github.com/pvtrpndy/webd-task3"
+        "repo link" : "https://github.com/pvtrpndy/webd-task3",
+        "live link" : "https://pvtrpndy.github.io/webd-task3/"
     }
 }
