@@ -1,8 +1,14 @@
 {
-    "name" : "Priyadarshini Roy",
-    "username" : "tsunami03",
-    "roll number" : "IIT2021133",
-    "task 1":{
-       "repo link" : "https://github.com/tsunami03/WebD-Tasks-APK22"
-    }
- }
+  "name": "Priyadarshini Roy",
+  "username": "tsunami03",
+  "roll number": "IIT2021133",
+  "task 1": {
+    "repo link": "https://github.com/tsunami03/WebD-Tasks-APK22"
+  },
+  "task 2": {
+    "repo link": "https://github.com/tsunami03/WebdTask2"
+  },
+  "task 3": {
+    "repo link": "https://github.com/tsunami03/webdtask3"
+  }
+}

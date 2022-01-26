@@ -4,6 +4,11 @@
        "roll number" : "IIT2021011",
        "task 1":{
           "repo link" : "https://github.com/03-Abhi/WebDev-Task1"
-       }
-}
+       },
+       "task 2":{
+                 "repo link" : "https://github.com/03-Abhi/WebD-Task2"
+              },
+       "task 3":{
+                 "repo link" : "https://github.com/03-Abhi/Web-Task3"
+              }
 
